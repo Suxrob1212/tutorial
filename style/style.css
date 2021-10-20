@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+li,
+ul,
+ol {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.wrapper{
+    width: 100%;
+    
+    .header{
+        width: 1000%;
+
+        .header_menu{
+            width: 100%;
+
+            .menu_logo{
+                width: 100%;
+                
+            }
+        }
+    }
+
+}
